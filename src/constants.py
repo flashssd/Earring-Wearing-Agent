@@ -1,0 +1,17 @@
+MODEL_DIR = "model/"
+JEWEL_DIR = "jewelry/"
+MODEL_PATH = "model/model.png"
+JEWEL_PATH = "jewelry/jewelry.png"
+JEWEL_LEFT_PATH = "jewelry/jewelry_left.png"
+JEWEL_RIGHT_PATH = "jewelry/jewelry_right.png"
+JEWEL_NO_BG_PATH = "jewelry/jewelry_no_bg.png"
+MODEL_SALT_PATH = "model/watermarked-put-on.png"
+WATERMARK_TEXT = "AutoAgent.ai"
+ROBOTO = "font/Roboto/Roboto-BoldItalic.ttf"
+EARLOBE_CLF_PATH = "../classifier/best_ring.pt"
+EAR_CLF_PATH = "../classifier/best_ear.pt"
+FONT_SIZE = 100
+CLIP_API_URL = "https://clipdrop-api.co/remove-background/v1"
+CLIP_API_KEY = ""
+RMBG_API_KEY = ""
+

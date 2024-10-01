@@ -1,0 +1,9 @@
+**/.DS_Store
+__pycache__/
+jewelry/*
+model/*
+result/*
+.ipynb_checkpoints/
+*.ipynb
+nohup.out
+error.log

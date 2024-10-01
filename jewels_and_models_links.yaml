@@ -1,0 +1,18 @@
+jewels:
+  # jewel1: 'http://94.74.75.247:8005/fs/664ec5bc6c9dfa28900740b8.jpeg'  # green
+  jewel2: 'http://94.74.75.247:8005/fs/664d515059ad8169c7ba33c9.jpeg'  # pearl
+  # jewel3: 'http://94.74.75.247:8005/fs/669881d3ac42115544f772ee.png'
+  jewel4: 'http://94.74.75.247:8005/fs/664ed9fd6c9dfa2890074104.jpeg'  # gold
+  jewel5: 'http://94.74.75.247:8005/fs/665d28866c9dfa2890074382.jpeg'  # blue
+  jewel6: 'http://94.74.75.247:8005/fs/6671193b172477703dd89539.jpeg'  # diamond
+
+models:
+  model1: 'http://94.74.75.247:8005/fs/6659afa96c9dfa2890074379.jpeg'  # model 1
+  # model2: 'http://94.74.75.247:8005/fs/66975eaee7ea8d6b50e2667c.png'
+  model3: 'http://94.74.75.247:8005/fs/6699d9fb2b6de63796a28b24.png'
+  model4: 'http://94.74.75.247:8005/fs/6654031c6c9dfa28900741e0.jpg'  # model 2
+  model5: 'http://94.74.75.247:8005/fs/66597b176c9dfa2890074370.jpeg'  # model 4
+  model6: 'http://94.74.75.247:8005/fs/665418176c9dfa2890074276.jpeg'  # model 5
+  # model7: 'http://94.74.75.247:8005/fs/66541b0c6c9dfa2890074288.jpeg'  # model 6
+  # model8: 'http://94.74.75.247:8005/fs/66555d3f6c9dfa28900742d8.jpeg'  # model 7
+  # model9: 'http://94.74.75.247:8005/fs/6659afa06c9dfa2890074376.jpeg'  # model 8
